@@ -38,9 +38,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vmalakovski/IdeaProjects/Clones",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -89,5 +88,12 @@
     <MESSAGE value="seecond commit" />
     <MESSAGE value="third commmit" />
     <option name="LAST_COMMIT_MESSAGE" value="third commmit" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ch" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
