@@ -6,6 +6,9 @@ public class Main {
         char[] ch = str.toCharArray();
 
         System.out.println(str.indexOf("t"));
-        System.out.println(ch.toString());
+
+        for (char arr : ch) {
+            System.out.println(ch);
+        }
     }
 }
