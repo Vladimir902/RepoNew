@@ -9,8 +9,5 @@
         <module name="RomanToInteger" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="RomanToInteger" target="22" />
-    </bytecodeTargetLevel>
   </component>
 </project>

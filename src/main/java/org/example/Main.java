@@ -5,6 +5,6 @@ public class Main {
         String str = "Nestooo";
         char[] ch = str.toCharArray();
 
-        System.out.println(str.indexOf("t"));
+        System.out.println(str.indexOf("e"));
     }
 }
